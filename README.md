@@ -1,11 +1,11 @@
 # Responsive Youtube Sidebar Menu 🖥️
-## [Preview](#) | [UI Design](#)
+## [Preview](https://rhr3032.github.io/responsive-youtube-sidebar-menu/) | [UI Design](#)
 
 
 ### Include this Portfolio Website ➡️
 
-- Full Responsive byUsing HTML CSS & JavaScript.
-- Mobile Friendly Design
+- Full Responsive by using HTML CSS & JavaScript.
+- Mobile-Friendly Design
 - Fresh And Clean Code
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
@@ -15,7 +15,7 @@
 ![preview img](/preview.png)
 
 ## About Mine
-## Hello 👋🏻, I'm Raisul Hasan Rafi. A Creative UI/UX Designer from Bangladesh, with 4+ years of experience. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+## Hello 👋🏻, I'm Raisul Hasan Rafi. A Creative UI/UX Designer from Bangladesh, with 4+ years of experience. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 Also skilled in Mobile App UI Design | Web Design | WordPress Customization | Search Engine Optimization (SEO) | Social Media Marketing | Photography and Video Editing | Content Writing & KyeWord Re-Search.
 
 ## Contact Me
